@@ -12,3 +12,20 @@ Our dataset can be found [here](https://archive.ics.uci.edu/dataset/275/bike+sha
 - Fernando Calderon
 - Lisa Vo
 - Zack Robertson
+
+## Features
+
+  Data Preprocessing: Handles missing values, feature scaling, and other preprocessing tasks.
+  Model Development: Implements a machine learning model to solve the defined problem.
+  Model Training and Evaluation: Trains the model on prepared data and evaluates its performance using relevant metrics.
+  Visualizations: Includes plots and graphs to analyze data and model performance.
+
+## Prerequisites
+
+To run the notebook, ensure you have the following installed:
+  numpy
+  pandas
+  scikit-learn
+  matplotlib
+  seaborn
+  Other dependencies listed in the notebook.
